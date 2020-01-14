@@ -1,7 +1,7 @@
-var myvar = "node package manager";
-console.log(myVar);
+var myVar = "node package manager";
 function convertToUppercase(input) {
   return myVar.toUpperCase();
+  console.log(myVar);
 }
 
 module.exports = convertToUppercase;
