@@ -16,7 +16,8 @@
     "url": "https://github.com/vishalpareek/maxbot/issues"
   },
   "scripts": {
-    "release": "npm -v && node -v"
+    "release": "npm -v && node -v",
+    "build" :"node index.js"
   },
   "homepage": "https://github.com/vishalpareek/maxbot#readme"
 }
