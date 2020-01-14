@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vishalpareek/maxbot/issues"
   },
+  "scripts": {
+    "release": "npm -v && node -v"
+  },
   "homepage": "https://github.com/vishalpareek/maxbot#readme"
 }
